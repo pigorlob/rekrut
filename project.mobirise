@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "20190227",
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -20,12 +20,14 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#f2f2f2"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 48,
+    "uniqCompNum": 61,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png"
   },
@@ -48,7 +50,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/budynek1a-1191x685.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/foto-szkola1-1200x848.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -219,7 +221,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gimna-1032x446.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tab-gimna.gif",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -243,8 +245,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -304,8 +306,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -365,8 +367,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -426,8 +428,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -487,8 +489,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -664,7 +666,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Dla absolwentów<br>szkół podstawowych",
-          "text": "<p><i><b><a href=\"http://www.lobierun.edu.pl/\" target=\"_blank\">Oferta rekrutacyjna LO im Powstańców Śląskich w Bieruniu</a></b></i></p>",
+          "text": "<p><i><b><a href=\"http://www.lobierun.edu.pl/\" target=\"_blank\">Oferta rekrutacyjna LO im Powstańców Śląskich w Bieruni</a>u</b></i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Motywy"
@@ -679,7 +681,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/podsta-2-1072x476.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tab-podsta.gif",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -695,6 +697,372 @@
           ],
           "_name": "image1",
           "_anchor": "image1-z"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/3kl-polit-800x533.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Klasa \"A\": matematyczno - informatyczna",
+          "text": "Doskonale przygotujesz się tu na kierunki politechniczne, inżynierię, środowiska, logistykę,  transport, robotykę, architekturę, gospodarkę przestrzenną, zarządzanie, elektronikę, fizykę, budownictwo, matematykę, górnictwo i geologię, mechanikę i budowę maszyn i wiele innych.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left",
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "msg-box5-1f"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7da64",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/4d-matfiz-421x300.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Klasa \"B\": matematyczno - fizyczna",
+          "text": "Doskonale przygotujesz się tu na kierunki ścisłe realizowane zarówno na studiach politechnicznych, jak i uniwersyteckich, w tym: matematykę, robotykę, informatykę, automatykę, elektronikę, budownictwo, ekonomię, inżynierię produkcji, transport, logistykę, geologię, architekturę i inne.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left",
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "msg-box5-1g"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/4c-biolchem-800x533.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Klasa \"C\": biologiczno - chemiczna",
+          "text": "Doskonale przygotujesz się tu na studia medyczne, farmację, fizjoterapię, dietetykę, pielęgniarstwo, położnictwo, ratownictwo medyczne, weterynarię, kosmetologię, biologię, ochronę środowiska, chemię, fizykę medyczną, analitykę medyczną, wychowanie fizyczne, bioinżynierię i inne kierunki.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left",
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "msg-box5-1h"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7da64",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/4e-human-800x531.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Klasa \"D\": humanistyczna",
+          "text": "Doskonale przygotujesz się tu na wszelkiego rodzaju studia filologiczne i humanistyczne, w tym: filologię polską i filologie obce, prawo, administrację, politologię, socjologię, historię, prawoznawstwo, dziennikarstwo, stosunki międzynarodowe, studia mundurowe i inne atrakcyjne kierunki.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left",
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "msg-box5-1i"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/l4e-ling-800x533.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Klasa \"E\": lingwistyczna",
+          "text": "W tej klasie czekamy przede wszystkim na uczniów mających zainteresowania językowe. Po jej ukończeniu możesz studiować anglistykę, germanistykę, rusycystykę, filologię hiszpańską i inne kierunki lingwistyczne.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left",
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "msg-box5-1k"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7da64",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/liceum4f-free-423x319.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Klasa \"F\": freestyle",
+          "text": "Klasa ta przygotowuje do szeroko pojętych studiów humanistycznych, począwszy od polonistyki przez historię, prawo, aż po psychologię, socjoligię czy też politologię.\n<br>\n<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left",
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "msg-box5-1l"
         }
       ]
     },
@@ -705,40 +1073,6 @@
         "order": 1
       },
       "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dokumenty-657x323.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Dokumenty do pobrania",
-          "text": "<p><a href=\"assets/files/proc_rek_2019_2020.pdf\" target=\"_blank\"><b>Procedura rekrutacyjna 2019-2020</b></a></p><p><a href=\"assets/files/1a_men_rekrut_3letnie.pdf\" target=\"_blank\"><b>MEN o rekrutacji 3 letnie lo</b></a></p><p><i><a href=\"assets/files/2a_men_rekrut_4letnie.pdf\" target=\"_blank\"><b>MEN o rekrutacji 4 letnie lo</b></a></i></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-11"
-        },
         {
           "_inherit": "menu",
           "_params": {
@@ -823,6 +1157,81 @@
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-13"
+        },
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc"
+            },
+            ".card-block P": {
+              "font-size": "18px"
+            },
+            ".mbr-section-subtitle B": {
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": true,
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "count": "2",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/dokumenty-657x323.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#7e9b9f",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.4"
+          },
+          "_tags": [
+            "Motywy"
+          ],
+          "title": "Dokumenty do pobrania",
+          "subtitle": "<b>Poniżej dwa dokumenty dla 3 i 4 letniego LO</b><br><br><a href=\"assets/files/proc_rek_2019_2020.pdf\" target=\"_blank\">Procedura rekrutacyjna 2019-2020</a>\n<br><a href=\"assets/files/koordynatorzy.pdf\" target=\"_blank\">Koordynatorzy KO w Katowicach ds rekrutacji</a><br>",
+          "testimonial": [
+            {
+              "authorName": "Abanoub S.",
+              "authorBio": "User",
+              "text": "<p><b>Poniżej dokumenty do pobrania dla 3 letniego LO</b></p><p><a href=\"assets/files/1a_men_rekrut_3letnie.pdf\" target=\"_blank\">MEN o rekrutacji 3 letnie LO</a></p><p><a href=\"assets/files/1b_ko_rekrut_3letnie_decyzja.pdf\" target=\"_blank\">KO o rekrutacji 3 letnie LO - decyzja</a></p><p><a href=\"assets/files/1c_ko_rekrut_3letnie_zalacz.pdf\" target=\"_blank\">KO o rekrutacji 3 letnie LO - załącznik</a></p><p><a href=\"assets/files/1d_ko_rekrut_3letnie_decyzja_zmiana.pdf\" target=\"_blank\">KO o rekrutacji 3 letnie LO - decyzja zmiana</a></p><p><a href=\"assets/files/1e_ko_rekrut_3letnie_załącznik_zmiana.pdf\" target=\"_blank\">KO o rekrutacji 3 letnie LO - załącznik zmiana</a>\n</p><p>llll<br></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Suffian A.",
+              "authorBio": "User",
+              "text": "<p><b>Poniżej dokumenty do pobrania dla 4 letniego LO</b></p><p><a href=\"assets/files/2a_men_rekrut_4letnie.pdf\" target=\"_blank\">MEN o rekrytacji 4 letnie LO</a></p><p><a href=\"assets/files/2b_ko_rekrut_4letnie_decyzja.pdf\" target=\"_blank\">KO o rekrutacji 4 letnie LO - decyzja</a></p><p><a href=\"assets/files/2c_ko_rekrut_4letnie_zalacz.pdf\" target=\"_blank\">KO o rekrutacji 4 letnie LO - załącznik</a></p><p><a href=\"assets/files/2d_ko_rekrut_4letnie_decyzja_zmiana.pdf\" target=\"_blank\">KO o rekrutacji 4 letnie LO - decyzja zmiana</a></p><p><a href=\"assets/files/2e_ko_rekrut_4letnie_zalacznik_zmiana.pdf\" target=\"_blank\">KO o rekrutacji 4 letnie LO - załącznik zmiana</a></p><p>llll</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-1o"
         }
       ]
     }

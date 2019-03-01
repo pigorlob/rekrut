@@ -592,9 +592,47 @@ h6,
 #msg-box8-y .lead P {
   font-size: 20px;
 }
-#msg-box8-11 .mbr-section-title,
-#msg-box8-11 p {
-  color: #fff;
+#msg-box5-1f P {
+  text-align: left;
+}
+#msg-box5-1f H3 {
+  text-align: left;
+  font-size: 24px;
+}
+#msg-box5-1g P {
+  text-align: left;
+}
+#msg-box5-1g H3 {
+  text-align: left;
+  font-size: 24px;
+}
+#msg-box5-1h P {
+  text-align: left;
+}
+#msg-box5-1h H3 {
+  text-align: left;
+  font-size: 24px;
+}
+#msg-box5-1i P {
+  text-align: left;
+}
+#msg-box5-1i H3 {
+  text-align: left;
+  font-size: 24px;
+}
+#msg-box5-1k P {
+  text-align: left;
+}
+#msg-box5-1k H3 {
+  text-align: left;
+  font-size: 24px;
+}
+#msg-box5-1l P {
+  text-align: left;
+}
+#msg-box5-1l H3 {
+  text-align: left;
+  font-size: 24px;
 }
 #ext_menu-13 .hide-buttons .nav-btn {
   display: none !important;
@@ -656,4 +694,19 @@ h6,
 #ext_menu-13 .link[aria-expanded="true"],
 #ext_menu-13 .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
+}
+#testimonials3-1o .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-1o .mbr-author-name {
+  color: #ccc;
+}
+#testimonials3-1o .card-block P {
+  font-size: 18px;
+}
+#testimonials3-1o .mbr-section-subtitle B {
+  color: #000000;
+}
+#testimonials3-1o .mbr-section-subtitle {
+  color: #000000;
 }
