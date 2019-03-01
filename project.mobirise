@@ -1,21 +1,21 @@
 {
   "settings": {
     "name": "20190227",
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#ffffff",
+        "primaryColor": "#eb6b56",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
-        "dangerColor": "#000000",
+        "dangerColor": "#3d8eb9",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
@@ -64,7 +64,7 @@
           },
           "title": "LO im. Powstańców Śląskich w Bieruniu<br>Rekrutacja 2019/2020",
           "text": "<br><a href=\"http://www.lobierun.edu.pl/\" target=\"_blank\" class=\"text-black\"><b>www.lobierun.edu.pl</b></a><br><br><a href=\"page3.html\" class=\"text-black\"><b>Dokumenty do pobrania</b></a>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Oferta dla &nbsp;absolwentów<br>gimnazjów<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Oferta dla absolwentów<br>szkół podstawowych<br></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Oferta dla &nbsp;absolwentów<br>gimnazjów<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Oferta dla absolwentów<br>szkół podstawowych<br></a>",
           "_tags": [
             "Motywy"
           ],
@@ -72,7 +72,7 @@
           "_anchor": "header1-1",
           "_styles": {
             ".btn": {
-              "font-size": "18px"
+              "font-size": "20px"
             },
             ".mbr-section-title": {
               "font-size": "36px",
@@ -156,7 +156,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#eb6b56!important"
             }
           },
           "logo": {
@@ -836,7 +836,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#eb6b56!important"
             }
           },
           "logo": {
@@ -886,7 +886,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Dla absolwentów<br>szkół podstawowych",
-          "text": "<p><i><b><a href=\"http://www.lobierun.edu.pl/\" target=\"_blank\">Oferta rekrutacyjna LO im Powstańców Śląskich w Bieruni</a>u</b></i></p>",
+          "text": "<p><i><b><a href=\"http://www.lobierun.edu.pl/\" target=\"_blank\">Oferta rekrutacyjna LO im Powstańców Śląskich w Bieruniu</a></b></i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Motywy"
