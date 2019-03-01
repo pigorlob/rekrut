@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "20190227",
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 63,
+    "uniqCompNum": 65,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png"
   },
@@ -542,6 +542,226 @@
             }
           },
           "_anchor": "msg-box5-1b"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7da64",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/prac-orlik-600x416.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/prac-bio-600x416.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/prac-filmy-600x416.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Orlik",
+          "subtitle1": "",
+          "caption1": "Kompleks boisk bardzo szybko stał się wizytówką szkoły i powiatu. Okazało się, że korzyści z jego powstania odczuli nie tylko uczniowie liceum czy starobieruńskiego gimnazjum, ale także społeczność powiatu. Wystarczy spojrzeć na grafik rezerwacji by przegnać się że nasz Orlik pracuje na pełnych obrotach.",
+          "title2": "EEG Biofeedback",
+          "subtitle2": "",
+          "caption2": "Biofeedback polega na tym, że specjalne urządzenie bada stan organizmu i dostarcza informację zwrotną (czyli feedback). Dzięki temu osoba poddana terapii może zacząć świadomie kontrolować funkcje organizmu, takie jak:  aktywność mózgu, temperatura ciała, napięcie mięśni. Biofeedback pomaga przezwyciężać objawy: depresji, nadciśnienia, nadmiernego stresu, migren, zespołu jelita drażliwego, ADHD, autyzmu, Zespołu Aspergera, trądziku, chronicznego bólu, nikotynizmu i wielu innych",
+          "title3": "Filmy",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Są tacy, którzy mówią o nas, że nic nie robimy, tylko kręcimy filmy. A nas naprawdę to kręci i zupełnie nie przeszkadza w osiąganiu sukcesów. Bo kręci nas nauka i kręci nas zabawa. To jest prawidziwy wymiar LO Bieruń.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/orlik\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20170601eeg\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>   ",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/galerie-video?page=1\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>  ",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1r"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/prac-3d-600x416.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/prac-lego2a-600x433.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/prac-galen-600x416.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Multimedialna pracownia 3D",
+          "subtitle1": "",
+          "caption1": "Podczas zajęć w tej pracowni zamiast tradycyjnego: \"otwórzcie podręczniki\" usłyszysz od nauczyciela polecenie: \"proszę założyć okulary\".\nPo chwili znajdziesz się we wnętrzu żyły, w głębi oka, staniesz\nnaprzeciw wirusa Ebola, albo zajrzysz pod powierzchnię oceanu, zaś trójwymiarowemu obrazowi towarzyszy przestrzenny dźwięk.\nWszystko bez konieczności ruszania się z klasy. Ta supernowoczesna pracownia, jest jedną z najnowocześniejszych sal dydaktycznych w regionie.",
+          "title2": "Kółko robotyki",
+          "subtitle2": "",
+          "caption2": "Zaczęło się skromnie - dwa pudełka klocków Lego Mindstorms. Wkrótce przyszły sukcesy, zarówno krajowe, jak i międzynarodowe. W zawodach krajowych zawsze na podium, a w turniejach międzynarodowych wpierw był ćwierćfinał w Wiedniu (2016), a później wicemistrzostwo Europy (Tallin 2017). I ciągle się rozwijamy. Pokazać studentom, że bieruńscy licealiści są lepsi - BEZCENNE!",
+          "title3": "Współpraca z kliniką GALEN",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Dzięki zajęciom i wykładom organizowanym we współpracy z Kliniką Galen w Bieruniu nasi uczniowie dowiadują się m. in. o jakie jest zastosowanie ultradźwięków, zjawiska odbicia, załamania, interferencji, rozproszenia, absorpcji, odwrotnego zjawiska piezoelektrycznego, zjawiska Dopplera we współczesnej medycynie oraz jak działają nowoczesne urządzenia do diagnostyki medycznej. Dzięki przychylności prof. dr. hab. Krzysztofa Ficka (absolwenta LO w Bieruniu) nasi uczniowie mogą poczuć się jak lekarze i zrobić sobie nawzajem badanie USG, a nawet wziąć udział w prawdziwej operacji! Współpraca trwa od 2015 roku.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20180101wszkole3d\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20190208osiagnieciabrno\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> <a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/wiktoria-wiedenska34\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> <a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20170507lego-kopia\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20181019wspolpracagalen\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> <a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20171103wspolpracagalen\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> <a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20170424profseptember\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1s"
         }
       ]
     },
@@ -1199,7 +1419,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/prac-orlik-600x416.jpg",
+              "src": "@PROJECT_PATH@/assets/images/prac-3d-600x416.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1210,7 +1430,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/prac-bio-600x416.jpg",
+              "src": "@PROJECT_PATH@/assets/images/prac-lego2a-600x433.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1221,7 +1441,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/prac-filmy-600x416.jpg",
+              "src": "@PROJECT_PATH@/assets/images/prac-galen-600x416.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
