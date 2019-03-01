@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "20190227",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 65,
+    "uniqCompNum": 70,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png"
   },
@@ -64,7 +64,7 @@
           },
           "title": "LO im. Powstańców Śląskich w Bieruniu<br>Rekrutacja 2019/2020",
           "text": "<br><a href=\"http://www.lobierun.edu.pl/\" target=\"_blank\" class=\"text-black\"><b>www.lobierun.edu.pl</b></a><br><br><a href=\"page3.html\" class=\"text-black\"><b>Dokumenty do pobrania</b></a>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Oferta dla &nbsp;absolwentów<br>gimnazjów<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Oferta dla absolwentów<br>szkół podstawowych<br></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Oferta dla &nbsp;absolwentów<br>gimnazjów<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Oferta dla absolwentów<br>szkół podstawowych<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Nasza szkoła<br>nasze atuty<br></a>",
           "_tags": [
             "Motywy"
           ],
@@ -89,7 +89,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "gim01",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -769,7 +769,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "pod01",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1510,6 +1510,175 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "dokumenty",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#eb6b56!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-13"
+        },
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc"
+            },
+            ".card-block P": {
+              "font-size": "18px"
+            },
+            ".mbr-section-subtitle B": {
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": true,
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "count": "2",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/dokumenty-657x323.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#3d8eb9",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.4"
+          },
+          "_tags": [
+            "Motywy"
+          ],
+          "title": "Dokumenty do pobrania",
+          "subtitle": "<b>Poniżej dwa dokumenty dla 3 i 4 letniego LO</b><br><br><a href=\"assets/files/proc_rek_popraw.pdf\" target=\"_blank\">Procedura rekrutacyjna 2019-2020\n- do pobranie</a><br><a href=\"assets/files/koordynatorzy.pdf\" target=\"_blank\">Koordynatorzy KO w Katowicach ds rekrutacji&nbsp;- do pobrania</a><br>",
+          "testimonial": [
+            {
+              "authorName": "Abanoub S.",
+              "authorBio": "User",
+              "text": "<p><b>Poniżej dokumenty do pobrania dla 3 letniego LO</b></p><p><a href=\"assets/files/1a_men_rekrut_3letnie.pdf\" target=\"_blank\">MEN o rekrutacji 3 letnie LO</a></p><p><a href=\"assets/files/1b_ko_rekrut_3letnie_decyzja.pdf\" target=\"_blank\">KO o rekrutacji 3 letnie LO - decyzja</a></p><p><a href=\"assets/files/1c_ko_rekrut_3letnie_zalacz.pdf\" target=\"_blank\">KO o rekrutacji 3 letnie LO - załącznik</a></p><p><a href=\"assets/files/1d_ko_rekrut_3letnie_decyzja_zmiana.pdf\" target=\"_blank\">KO o rekrutacji 3 letnie LO - decyzja zmiana</a></p><p><a href=\"assets/files/1e_ko_rekrut_3letnie_załącznik_zmiana.pdf\" target=\"_blank\">KO o rekrutacji 3 letnie LO - załącznik zmiana</a></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Suffian A.",
+              "authorBio": "User",
+              "text": "<p><b>Poniżej dokumenty do pobrania dla 4 letniego LO</b></p><p><a href=\"assets/files/2a_men_rekrut_4letnie.pdf\" target=\"_blank\">MEN o rekrytacji 4 letnie LO</a></p><p><a href=\"assets/files/2b_ko_rekrut_4letnie_decyzja.pdf\" target=\"_blank\">KO o rekrutacji 4 letnie LO - decyzja</a></p><p><a href=\"assets/files/2c_ko_rekrut_4letnie_zalacz.pdf\" target=\"_blank\">KO o rekrutacji 4 letnie LO - załącznik</a></p><p><a href=\"assets/files/2d_ko_rekrut_4letnie_decyzja_zmiana.pdf\" target=\"_blank\">KO o rekrutacji 4 letnie LO - decyzja zmiana</a></p><p><a href=\"assets/files/2e_ko_rekrut_4letnie_zalacznik_zmiana.pdf\" target=\"_blank\">KO o rekrutacji 4 letnie LO - załącznik zmiana</a></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-1o"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "szkola",
         "order": 1
       },
       "components": [
@@ -1577,7 +1746,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#eb6b56!important"
             }
           },
           "logo": {
@@ -1599,79 +1768,253 @@
           "_anchor": "ext_menu-13"
         },
         {
-          "_inherit": "testimonials1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#efefef"
-            },
-            ".mbr-author-name": {
-              "color": "#ccc"
-            },
-            ".card-block P": {
-              "font-size": "18px"
-            },
-            ".mbr-section-subtitle B": {
-              "color": "#000000"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000"
-            }
-          },
           "_params": {
-            "showTitle": false,
-            "showSubtitle": true,
-            "showImages": false,
-            "showName": false,
-            "showBio": false,
-            "count": "2",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/dokumenty-657x323.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.4"
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/foto-szkola1-1200x848.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
           },
+          "title": "Nasza szkoła<br>nasze atuty",
+          "text": "<br><b>Zobacz poniżej</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Motywy"
           ],
-          "title": "Dokumenty do pobrania",
-          "subtitle": "<b>Poniżej dwa dokumenty dla 3 i 4 letniego LO</b><br><br><a href=\"assets/files/proc_rek_popraw.pdf\" target=\"_blank\">Procedura rekrutacyjna 2019-2020\n</a><br><a href=\"assets/files/koordynatorzy.pdf\" target=\"_blank\">Koordynatorzy KO w Katowicach ds rekrutacji</a><br>",
-          "testimonial": [
-            {
-              "authorName": "Abanoub S.",
-              "authorBio": "User",
-              "text": "<p><b>Poniżej dokumenty do pobrania dla 3 letniego LO</b></p><p><a href=\"assets/files/1a_men_rekrut_3letnie.pdf\" target=\"_blank\">MEN o rekrutacji 3 letnie LO</a></p><p><a href=\"assets/files/1b_ko_rekrut_3letnie_decyzja.pdf\" target=\"_blank\">KO o rekrutacji 3 letnie LO - decyzja</a></p><p><a href=\"assets/files/1c_ko_rekrut_3letnie_zalacz.pdf\" target=\"_blank\">KO o rekrutacji 3 letnie LO - załącznik</a></p><p><a href=\"assets/files/1d_ko_rekrut_3letnie_decyzja_zmiana.pdf\" target=\"_blank\">KO o rekrutacji 3 letnie LO - decyzja zmiana</a></p><p><a href=\"assets/files/1e_ko_rekrut_3letnie_załącznik_zmiana.pdf\" target=\"_blank\">KO o rekrutacji 3 letnie LO - załącznik zmiana</a></p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
+          "_name": "header1",
+          "_anchor": "header1-1x"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7da64",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            {
-              "authorName": "Suffian A.",
-              "authorBio": "User",
-              "text": "<p><b>Poniżej dokumenty do pobrania dla 4 letniego LO</b></p><p><a href=\"assets/files/2a_men_rekrut_4letnie.pdf\" target=\"_blank\">MEN o rekrytacji 4 letnie LO</a></p><p><a href=\"assets/files/2b_ko_rekrut_4letnie_decyzja.pdf\" target=\"_blank\">KO o rekrutacji 4 letnie LO - decyzja</a></p><p><a href=\"assets/files/2c_ko_rekrut_4letnie_zalacz.pdf\" target=\"_blank\">KO o rekrutacji 4 letnie LO - załącznik</a></p><p><a href=\"assets/files/2d_ko_rekrut_4letnie_decyzja_zmiana.pdf\" target=\"_blank\">KO o rekrutacji 4 letnie LO - decyzja zmiana</a></p><p><a href=\"assets/files/2e_ko_rekrut_4letnie_zalacznik_zmiana.pdf\" target=\"_blank\">KO o rekrutacji 4 letnie LO - załącznik zmiana</a></p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/prac-orlik-600x416.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/prac-bio-600x416.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/prac-filmy-600x416.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Orlik",
+          "subtitle1": "",
+          "caption1": "Kompleks boisk bardzo szybko stał się wizytówką szkoły i powiatu. Okazało się, że korzyści z jego powstania odczuli nie tylko uczniowie liceum czy starobieruńskiego gimnazjum, ale także społeczność powiatu. Wystarczy spojrzeć na grafik rezerwacji by przegnać się że nasz Orlik pracuje na pełnych obrotach.",
+          "title2": "EEG Biofeedback",
+          "subtitle2": "",
+          "caption2": "Biofeedback polega na tym, że specjalne urządzenie bada stan organizmu i dostarcza informację zwrotną (czyli feedback). Dzięki temu osoba poddana terapii może zacząć świadomie kontrolować funkcje organizmu, takie jak:  aktywność mózgu, temperatura ciała, napięcie mięśni. Biofeedback pomaga przezwyciężać objawy: depresji, nadciśnienia, nadmiernego stresu, migren, zespołu jelita drażliwego, ADHD, autyzmu, Zespołu Aspergera, trądziku, chronicznego bólu, nikotynizmu i wielu innych",
+          "title3": "Filmy",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Są tacy, którzy mówią o nas, że nic nie robimy, tylko kręcimy filmy. A nas naprawdę to kręci i zupełnie nie przeszkadza w osiąganiu sukcesów. Bo kręci nas nauka i kręci nas zabawa. To jest prawidziwy wymiar LO Bieruń.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/orlik\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20170601eeg\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>   ",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/galerie-video?page=1\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>  ",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Motywy"
           ],
-          "_name": "testimonials3",
-          "_anchor": "testimonials3-1o"
+          "_name": "features3",
+          "_anchor": "features3-1u"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/prac-3d-600x416.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/prac-lego2b-600x416.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/prac-galen-600x416.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Multimedialna pracownia 3D",
+          "subtitle1": "",
+          "caption1": "Podczas zajęć w tej pracowni zamiast tradycyjnego: \"otwórzcie podręczniki\" usłyszysz od nauczyciela polecenie: \"proszę założyć okulary\".\nPo chwili znajdziesz się we wnętrzu żyły, w głębi oka, staniesz\nnaprzeciw wirusa Ebola, albo zajrzysz pod powierzchnię oceanu, zaś trójwymiarowemu obrazowi towarzyszy przestrzenny dźwięk.\nWszystko bez konieczności ruszania się z klasy. Ta supernowoczesna pracownia, jest jedną z najnowocześniejszych sal dydaktycznych w regionie.",
+          "title2": "Kółko robotyki",
+          "subtitle2": "",
+          "caption2": "Zaczęło się skromnie - dwa pudełka klocków Lego Mindstorms. Wkrótce przyszły sukcesy, zarówno krajowe, jak i międzynarodowe. W zawodach krajowych zawsze na podium, a w turniejach międzynarodowych wpierw był ćwierćfinał w Wiedniu (2016), a później wicemistrzostwo Europy (Tallin 2017). I ciągle się rozwijamy. Pokazać studentom, że bieruńscy licealiści są lepsi - BEZCENNE!",
+          "title3": "Współpraca z kliniką GALEN",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Dzięki zajęciom i wykładom organizowanym we współpracy z Kliniką Galen w Bieruniu nasi uczniowie dowiadują się m. in. o jakie jest zastosowanie ultradźwięków, zjawiska odbicia, załamania, interferencji, rozproszenia, absorpcji, odwrotnego zjawiska piezoelektrycznego, zjawiska Dopplera we współczesnej medycynie oraz jak działają nowoczesne urządzenia do diagnostyki medycznej. Dzięki przychylności prof. dr. hab. Krzysztofa Ficka (absolwenta LO w Bieruniu) nasi uczniowie mogą poczuć się jak lekarze i zrobić sobie nawzajem badanie USG, a nawet wziąć udział w prawdziwej operacji! Współpraca trwa od 2015 roku.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20180101wszkole3d\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20190208osiagnieciabrno\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> <a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/wiktoria-wiedenska34\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> <a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20170507lego-kopia\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20181019wspolpracagalen\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> <a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20171103wspolpracagalen\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> <a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20170424profseptember\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1v"
         }
       ]
     }
