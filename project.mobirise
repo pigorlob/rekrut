@@ -1204,7 +1204,7 @@
             {
               "authorName": "Abanoub S.",
               "authorBio": "User",
-              "text": "<p><b>Poniżej dokumenty do pobrania dla 3 letniego LO</b></p><p><a href=\"assets/files/1a_men_rekrut_3letnie.pdf\" target=\"_blank\">MEN o rekrutacji 3 letnie LO</a></p><p><a href=\"assets/files/1b_ko_rekrut_3letnie_decyzja.pdf\" target=\"_blank\">KO o rekrutacji 3 letnie LO - decyzja</a></p><p><a href=\"assets/files/1c_ko_rekrut_3letnie_zalacz.pdf\" target=\"_blank\">KO o rekrutacji 3 letnie LO - załącznik</a></p><p><a href=\"assets/files/1d_ko_rekrut_3letnie_decyzja_zmiana.pdf\" target=\"_blank\">KO o rekrutacji 3 letnie LO - decyzja zmiana</a></p><p><a href=\"assets/files/1e_ko_rekrut_3letnie_załącznik_zmiana.pdf\" target=\"_blank\">KO o rekrutacji 3 letnie LO - załącznik zmiana</a>\n</p><p>llll<br></p>",
+              "text": "<p><b>Poniżej dokumenty do pobrania dla 3 letniego LO</b></p><p><a href=\"assets/files/1a_men_rekrut_3letnie.pdf\" target=\"_blank\">MEN o rekrutacji 3 letnie LO</a></p><p><a href=\"assets/files/1b_ko_rekrut_3letnie_decyzja.pdf\" target=\"_blank\">KO o rekrutacji 3 letnie LO - decyzja</a></p><p><a href=\"assets/files/1c_ko_rekrut_3letnie_zalacz.pdf\" target=\"_blank\">KO o rekrutacji 3 letnie LO - załącznik</a></p><p><a href=\"assets/files/1d_ko_rekrut_3letnie_decyzja_zmiana.pdf\" target=\"_blank\">KO o rekrutacji 3 letnie LO - decyzja zmiana</a></p><p><a href=\"assets/files/1e_ko_rekrut_3letnie_załącznik_zmiana.pdf\" target=\"_blank\">KO o rekrutacji 3 letnie LO - załącznik zmiana</a></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -1218,7 +1218,7 @@
             {
               "authorName": "Suffian A.",
               "authorBio": "User",
-              "text": "<p><b>Poniżej dokumenty do pobrania dla 4 letniego LO</b></p><p><a href=\"assets/files/2a_men_rekrut_4letnie.pdf\" target=\"_blank\">MEN o rekrytacji 4 letnie LO</a></p><p><a href=\"assets/files/2b_ko_rekrut_4letnie_decyzja.pdf\" target=\"_blank\">KO o rekrutacji 4 letnie LO - decyzja</a></p><p><a href=\"assets/files/2c_ko_rekrut_4letnie_zalacz.pdf\" target=\"_blank\">KO o rekrutacji 4 letnie LO - załącznik</a></p><p><a href=\"assets/files/2d_ko_rekrut_4letnie_decyzja_zmiana.pdf\" target=\"_blank\">KO o rekrutacji 4 letnie LO - decyzja zmiana</a></p><p><a href=\"assets/files/2e_ko_rekrut_4letnie_zalacznik_zmiana.pdf\" target=\"_blank\">KO o rekrutacji 4 letnie LO - załącznik zmiana</a></p><p>llll</p>",
+              "text": "<p><b>Poniżej dokumenty do pobrania dla 4 letniego LO</b></p><p><a href=\"assets/files/2a_men_rekrut_4letnie.pdf\" target=\"_blank\">MEN o rekrytacji 4 letnie LO</a></p><p><a href=\"assets/files/2b_ko_rekrut_4letnie_decyzja.pdf\" target=\"_blank\">KO o rekrutacji 4 letnie LO - decyzja</a></p><p><a href=\"assets/files/2c_ko_rekrut_4letnie_zalacz.pdf\" target=\"_blank\">KO o rekrutacji 4 letnie LO - załącznik</a></p><p><a href=\"assets/files/2d_ko_rekrut_4letnie_decyzja_zmiana.pdf\" target=\"_blank\">KO o rekrutacji 4 letnie LO - decyzja zmiana</a></p><p><a href=\"assets/files/2e_ko_rekrut_4letnie_zalacznik_zmiana.pdf\" target=\"_blank\">KO o rekrutacji 4 letnie LO - załącznik zmiana</a></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
