@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "20190227",
-    "currentPage": "page3.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -157,7 +157,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#eb6b56!important"
             }
           },
           "logo": {
@@ -285,7 +285,7 @@
               "size": 0
             }
           },
-          "title": "Klasa \"B\" - politechniczna",
+          "title": "Klasa B (politechniczna)",
           "text": "Doskonale przygotujesz się tu na kierunki politechniczne, inżynierię, środowiska, logistykę,  transport, robotykę, architekturę, gospodarkę przestrzenną, zarządzanie, elektronikę, fizykę, budownictwo, matematykę, górnictwo i geologię, mechanikę i budowę maszyn i wiele innych.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -346,7 +346,7 @@
               "size": 0
             }
           },
-          "title": "Klasa \"C\" - przyrodnicza",
+          "title": "Klasa C (przyrodnicza)",
           "text": "Doskonale przygotujesz się tu na studia medyczne, farmację, fizjoterapię, dietetykę, pielęgniarstwo, położnictwo, ratownictwo medyczne, weterynarię, kosmetologię, biologię, ochronę środowiska, chemię, fizykę medyczną, analitykę medyczną, wychowanie fizyczne, bioinżynierię i inne kierunki.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -407,7 +407,7 @@
               "size": 0
             }
           },
-          "title": "Klasa \"D\" - akademicka",
+          "title": "Klasa D (akademicka)",
           "text": "Doskonale przygotujesz się tu na kierunki ścisłe realizowane zarówno na studiach politechnicznych, jak i uniwersyteckich, w tym: matematykę, robotykę, informatykę, automatykę, elektronikę, budownictwo, ekonomię, inżynierię produkcji, transport, logistykę, geologię, architekturę i inne.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -468,7 +468,7 @@
               "size": 0
             }
           },
-          "title": "Klasa \"E\" - humanistyczna",
+          "title": "Klasa E (humanistyczna)",
           "text": "Doskonale przygotujesz się tu na wszelkiego rodzaju studia filologiczne i humanistyczne, w tym: filologię polską i filologie obce, prawo, administrację, politologię, socjologię, historię, prawoznawstwo, dziennikarstwo, stosunki międzynarodowe, studia mundurowe i inne atrakcyjne kierunki.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -529,7 +529,7 @@
               "size": 0
             }
           },
-          "title": "Klasa \"F\" - społeczna",
+          "title": "Klasa F (społeczna)",
           "text": "Doskonale przygotujesz się tu na kierunki społeczno-polityczne, socjologię, pedagogikę, psychologię, pedagogikę społeczno-opiekuńczą, nauki polityczne, administrację, rachunkowość i finanse, ekonomię, resocjalizację, wychowanie fizyczne, studia mundurowe i wiele innych.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -840,7 +840,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#eb6b56!important"
             }
           },
           "logo": {
@@ -968,7 +968,7 @@
               "size": 0
             }
           },
-          "title": "Klasa \"A\": matematyczno - informatyczna",
+          "title": "Klasa A (matematyczno - informatyczna)",
           "text": "Doskonale przygotujesz się tu na kierunki politechniczne, inżynierię, środowiska, logistykę,  transport, robotykę, architekturę, gospodarkę przestrzenną, zarządzanie, elektronikę, fizykę, budownictwo, matematykę, górnictwo i geologię, mechanikę i budowę maszyn i wiele innych.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1029,7 +1029,7 @@
               "size": 0
             }
           },
-          "title": "Klasa \"B\": matematyczno - fizyczna",
+          "title": "Klasa B (matematyczno - fizyczna)",
           "text": "Doskonale przygotujesz się tu na kierunki ścisłe realizowane zarówno na studiach politechnicznych, jak i uniwersyteckich, w tym: matematykę, robotykę, informatykę, automatykę, elektronikę, budownictwo, ekonomię, inżynierię produkcji, transport, logistykę, geologię, architekturę i inne.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1090,7 +1090,7 @@
               "size": 0
             }
           },
-          "title": "Klasa \"C\": biologiczno - chemiczna",
+          "title": "Klasa C (biologiczno - chemiczna)",
           "text": "Doskonale przygotujesz się tu na studia medyczne, farmację, fizjoterapię, dietetykę, pielęgniarstwo, położnictwo, ratownictwo medyczne, weterynarię, kosmetologię, biologię, ochronę środowiska, chemię, fizykę medyczną, analitykę medyczną, wychowanie fizyczne, bioinżynierię i inne kierunki.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1134,7 +1134,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/4e-human-800x531.jpg",
+              "src": "@PROJECT_PATH@/assets/images/3kl-human-800x533.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1151,7 +1151,7 @@
               "size": 0
             }
           },
-          "title": "Klasa \"D\": humanistyczna",
+          "title": "Klasa D (humanistyczna)",
           "text": "Doskonale przygotujesz się tu na wszelkiego rodzaju studia filologiczne i humanistyczne, w tym: filologię polską i filologie obce, prawo, administrację, politologię, socjologię, historię, prawoznawstwo, dziennikarstwo, stosunki międzynarodowe, studia mundurowe i inne atrakcyjne kierunki.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1195,7 +1195,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/l4e-ling-800x533.jpg",
+              "src": "@PROJECT_PATH@/assets/images/l4e-ling1-801x533.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1212,7 +1212,7 @@
               "size": 0
             }
           },
-          "title": "Klasa \"E\": lingwistyczna",
+          "title": "Klasa E (lingwistyczna)",
           "text": "W tej klasie czekamy przede wszystkim na uczniów mających zainteresowania językowe. Po jej ukończeniu możesz studiować anglistykę, germanistykę, rusycystykę, filologię hiszpańską i inne kierunki lingwistyczne.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1273,7 +1273,7 @@
               "size": 0
             }
           },
-          "title": "Klasa \"F\": freestyle",
+          "title": "Klasa F (freestyle)",
           "text": "Klasa ta przygotowuje do szeroko pojętych studiów humanistycznych, począwszy od polonistyki przez historię, prawo, aż po psychologię, socjoligię czy też politologię.\n<br>\n<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
