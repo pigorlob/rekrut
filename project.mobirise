@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "20190227",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1665,7 +1665,7 @@
             {
               "authorName": "Suffian A.",
               "authorBio": "User",
-              "text": "<p><b>Poniżej dokumenty do pobrania dla 4 letniego LO</b></p><p><a href=\"assets/files/2a_men_rekrut_4letnie.pdf\" target=\"_blank\" class=\"text-black\">MEN o rekrytacji 4 letnie LO</a></p><p><a href=\"assets/files/2b_ko_rekrut_4letnie_decyzja.pdf\" target=\"_blank\" class=\"text-black\">KO o rekrutacji 4 letnie LO - decyzja</a></p><p><a href=\"assets/files/2c_ko_rekrut_4letnie_zalacz.pdf\" target=\"_blank\" class=\"text-black\">KO o rekrutacji 4 letnie LO - załącznik</a></p><p><a href=\"assets/files/2d_ko_rekrut_4letnie_decyzja_zmiana.pdf\" target=\"_blank\" class=\"text-black\">KO o rekrutacji 4 letnie LO - decyzja zmiana</a></p><p><a href=\"assets/files/2e_ko_rekrut_4letnie_zalacznik_zmiana.pdf\" target=\"_blank\" class=\"text-black\">KO o rekrutacji 4 letnie LO - załącznik zmiana</a></p>",
+              "text": "<p><b>Poniżej dokumenty do pobrania dla 4 letniego LO</b></p><p><a href=\"assets/files/2a_men_rekrut_4letnie.pdf\" target=\"_blank\" class=\"text-black\">MEN o rekrutacji 4 letnie LO</a></p><p><a href=\"assets/files/2b_ko_rekrut_4letnie_decyzja.pdf\" target=\"_blank\" class=\"text-black\">KO o rekrutacji 4 letnie LO - decyzja</a></p><p><a href=\"assets/files/2c_ko_rekrut_4letnie_zalacz.pdf\" target=\"_blank\" class=\"text-black\">KO o rekrutacji 4 letnie LO - załącznik</a></p><p><a href=\"assets/files/2d_ko_rekrut_4letnie_decyzja_zmiana.pdf\" target=\"_blank\" class=\"text-black\">KO o rekrutacji 4 letnie LO - decyzja zmiana</a></p><p><a href=\"assets/files/2e_ko_rekrut_4letnie_zalacznik_zmiana.pdf\" target=\"_blank\" class=\"text-black\">KO o rekrutacji 4 letnie LO - załącznik zmiana</a></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
