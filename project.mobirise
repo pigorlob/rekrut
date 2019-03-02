@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "20190227",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#ffffff",
+        "primaryColor": "#eb6b56",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
