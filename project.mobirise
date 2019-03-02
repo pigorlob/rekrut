@@ -185,6 +185,9 @@
             },
             ".lead P": {
               "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -206,7 +209,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Dla absolwentów<br>gimnazjów",
+          "title": "Dla absolwentów<br>gimnazjów - 3 letnie LO",
           "text": "<p><b><i><a href=\"http://www.lobierun.edu.pl/\" target=\"_blank\">Oferta rekrutacyjna LO im Powstańców Śląskich w Bieruniu</a></i></b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -837,7 +840,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#eb6b56!important"
+              "color": "#ffffff!important"
             }
           },
           "logo": {
@@ -865,6 +868,9 @@
             },
             ".lead P": {
               "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -886,7 +892,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Dla absolwentów<br>szkół podstawowych",
+          "title": "Dla absolwentów<br>szkół podstawowych - 4 letnie LO&nbsp;",
           "text": "<p><i><b><a href=\"http://www.lobierun.edu.pl/\" target=\"_blank\">Oferta rekrutacyjna LO im Powstańców Śląskich w Bieruniu</a></b></i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
