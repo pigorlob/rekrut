@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "20190227",
-    "currentPage": "page3.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#eb6b56",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -120,19 +120,19 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#cccccc"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1.3rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.408rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -147,7 +147,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#cccccc",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -157,7 +157,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#eb6b56!important"
+              "color": "#ffffff!important"
             }
           },
           "logo": {
@@ -800,19 +800,19 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#cccccc"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1.3rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.408rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -827,7 +827,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#cccccc",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1710,19 +1710,19 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#cccccc"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "1.3rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "1.408rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1737,7 +1737,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#cccccc",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
