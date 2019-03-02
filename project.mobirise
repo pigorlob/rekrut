@@ -102,7 +102,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -782,7 +782,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1523,7 +1523,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1549,10 +1549,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1626,10 +1626,10 @@
             "count": "2",
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/dokum03-1800x1350.jpg",
             "parallax": false,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#3d8eb9",
             "overlay": false,
             "overlayColor": "#222",
@@ -1639,7 +1639,7 @@
             "Motywy"
           ],
           "title": "Dokumenty do pobrania",
-          "subtitle": "<b>Poniżej dwa dokumenty dla 3 i 4 letniego LO</b><br><br><b><a href=\"assets/files/proc_rek_popraw.pdf\" target=\"_blank\" class=\"text-black\">Procedura rekrutacyjna 2019-2020\n- do pobrania</a><br><a href=\"assets/files/koordynatorzy.pdf\" target=\"_blank\" class=\"text-black\">Koordynatorzy KO w Katowicach ds rekrutacji&nbsp;- do pobrania</a></b><br>",
+          "subtitle": "<b>Poniżej dwa dokumenty wspólne dla 3 i 4 letniego LO</b><br><br><b><a href=\"assets/files/proc_rek_popraw.pdf\" target=\"_blank\" class=\"text-black\">Procedura rekrutacyjna 2019-2020\n- do pobrania</a><br><a href=\"assets/files/koordynatorzy.pdf\" target=\"_blank\" class=\"text-black\">Koordynatorzy KO w Katowicach ds rekrutacji&nbsp;- do pobrania</a></b><br>",
           "testimonial": [
             {
               "authorName": "Abanoub S.",
@@ -1692,7 +1692,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2035,7 +2035,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2061,10 +2061,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2138,10 +2138,10 @@
             "count": "2",
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/dokum03-1800x1350.jpg",
             "parallax": false,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#3d8eb9",
             "overlay": false,
             "overlayColor": "#222",
