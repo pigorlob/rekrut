@@ -21,7 +21,8 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#f2f2f2"
+        "#f2f2f2",
+        "#282828"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -102,9 +103,9 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.6",
+            "fontSize": "1.3",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -782,9 +783,9 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.6",
+            "fontSize": "1.3",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -1523,9 +1524,9 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.6",
+            "fontSize": "1.3",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -1540,19 +1541,19 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#cccccc"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "1.3rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "1.408rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1567,7 +1568,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#cccccc",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1626,10 +1627,10 @@
             "count": "2",
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dokum03-1800x1350.jpg",
             "parallax": false,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#3d8eb9",
             "overlay": false,
             "overlayColor": "#222",
@@ -1692,9 +1693,9 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.6",
+            "fontSize": "1.3",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -1718,10 +1719,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2035,9 +2036,9 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.6",
+            "fontSize": "1.3",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -2052,19 +2053,19 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#cccccc"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "1.3rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "1.408rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2079,7 +2080,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#cccccc",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2138,10 +2139,10 @@
             "count": "2",
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dokum03-1800x1350.jpg",
             "parallax": false,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#3d8eb9",
             "overlay": false,
             "overlayColor": "#222",
