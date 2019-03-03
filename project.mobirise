@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "20190227",
-    "currentPage": "page3.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1426,7 +1426,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/prac-3d-600x416.jpg",
+              "src": "@PROJECT_PATH@/assets/images/prac-orlik-600x416.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1437,7 +1437,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/prac-lego2a-600x433.jpg",
+              "src": "@PROJECT_PATH@/assets/images/prac-bio-600x416.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1448,7 +1448,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/prac-galen-600x416.jpg",
+              "src": "@PROJECT_PATH@/assets/images/prac-filmy-600x416.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1901,9 +1901,9 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/orlik\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> ",
-          "button2": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20170601eeg\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>   ",
-          "button3": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/galerie-video?page=1\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>  ",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/orlik\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">więcej</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20170601eeg\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">więcej</a>   ",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/galerie-video?page=1\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">więcej</a>  ",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2011,9 +2011,9 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20180101wszkole3d\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> ",
-          "button2": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20190208osiagnieciabrno\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> <a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/wiktoria-wiedenska34\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> <a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20170507lego-kopia\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20181019wspolpracagalen\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> <a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20171103wspolpracagalen\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a> <a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20170424profseptember\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20180101wszkole3d\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">więcej</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20190208osiagnieciabrno\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">więcej</a> <a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/wiktoria-wiedenska34\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">więcej</a> <a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20170507lego-kopia\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">więcej</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20181019wspolpracagalen\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">więcej</a> <a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20171103wspolpracagalen\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">więcej</a> <a data-app-btn=\"true\" href=\"http://www.lobierun.edu.pl/20170424profseptember\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">więcej</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
