@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "20190227",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -28,8 +28,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 71,
-    "versionPublish": "4.9.3",
+    "uniqCompNum": 72,
+    "versionPublish": "4.9.5",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -63,8 +63,8 @@
             "overlayColor": "#cccccc",
             "overlayOpacity": "0.7"
           },
-          "title": "LO im. Powstańców Śląskich w Bieruniu<br>Rekrutacja 2019/2020",
-          "text": "<br><a href=\"http://www.lobierun.edu.pl/\" target=\"_blank\" class=\"text-black\"><b>www.lobierun.edu.pl</b></a><br><br>",
+          "title": "LO im. Powstańców Śląskich w Bieruniu<br>Rekrutacja 2019/2020<br><br>",
+          "text": "<br><a href=\"http://www.lobierun.edu.pl/\" target=\"_blank\" class=\"text-black\"><b>www.lobierun.edu.pl</b></a><br><b><br></b><br><b>w razie pytań pisz na adres:</b><br><b>dyrektorlob@gmail.com<a href=\"http://www.lobierun.edu.pl/\" target=\"_blank\" class=\"text-black\"><br></a></b><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Oferta dla &nbsp;absolwentów<br>gimnazjów<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Oferta dla absolwentów<br>szkół podstawowych<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Nasza szkoła<br>Nasze atuty<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Dokumenty<br>do pobrania<br></a>",
           "_tags": [
             "Motywy"
@@ -80,7 +80,7 @@
               "color": "#000000"
             },
             ".mbr-section-lead B": {
-              "color": "#000000"
+              "color": "#282828"
             }
           }
         }
