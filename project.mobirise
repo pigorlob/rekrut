@@ -112,7 +112,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Jakie przedmioty będą brane <br>pod uwagę podczas rekrutacji?",
-          "caption": "<p><b>Niezależnie od wybieranej klasy,\n&nbsp;<span style=\"font-size: 1.07rem;\">pod uwagę będą brane oceny z:&nbsp;</span><span style=\"font-size: 1.07rem;\">języka polskiego i matematyki&nbsp;</span><span style=\"font-size: 1.07rem;\">oraz 2 najlepsze oceny z przedmiotów:&nbsp;</span><span style=\"font-size: 1.07rem;\">język obcy, historia, geografia, wiedza o społeczeństwie, biologia, chemia, informatyka i fizyka&nbsp;</span><span style=\"font-size: 1.07rem;\">uzyskane na świadectwie szkoły.&nbsp;</span><span style=\"font-size: 1.07rem;\">Szczegóły związane z przeliczaniem punktów znajdziesz w&nbsp;</span><span style=\"font-size: 1.07rem;\">Szkolnej Procedurze Rekrutacyjnej dostępnej w dziale \"Dokumenty do pobrania\"</span></b></p>",
+          "caption": "<p><b>Niezależnie od wybieranej klasy,\n&nbsp;<span style=\"font-size: 1.07rem;\">pod uwagę będą brane oceny z:&nbsp;</span><span style=\"font-size: 1.07rem;\">języka polskiego i matematyki&nbsp;</span><span style=\"font-size: 1.07rem;\">oraz dwie najlepsze oceny z przedmiotów:&nbsp;</span><span style=\"font-size: 1.07rem;\">język obcy, historia, geografia, wiedza o społeczeństwie, biologia, chemia, informatyka i fizyka&nbsp;</span><span style=\"font-size: 1.07rem;\">uzyskane na świadectwie szkoły.&nbsp;</span><span style=\"font-size: 1.07rem;\">Szczegóły związane z przeliczaniem punktów znajdziesz w&nbsp;</span><span style=\"font-size: 1.07rem;\">Szkolnej Procedurze Rekrutacyjnej dostępnej w dziale \"Dokumenty do pobrania\"</span></b></p>",
           "_tags": [
             "Motywy"
           ],
