@@ -427,6 +427,13 @@ h6,
 #header1-1 .mbr-section-lead B {
   color: #282828;
 }
+#content5-20 .mbr-section-title,
+#content5-20 p {
+  color: #fff;
+}
+#content5-20 .mbr-section-title {
+  text-align: center;
+}
 #ext_menu-13 .hide-buttons .nav-btn {
   display: none !important;
 }

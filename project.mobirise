@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "20190227",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 72,
+    "uniqCompNum": 74,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png"
   },
@@ -48,7 +48,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": false,
+            "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/foto-szkola1-1200x848.jpg",
@@ -64,7 +64,7 @@
             "overlayOpacity": "0.7"
           },
           "title": "LO im. Powstańców Śląskich w Bieruniu<br>Rekrutacja 2019/2020<br><br>",
-          "text": "<br><a href=\"http://www.lobierun.edu.pl/\" target=\"_blank\" class=\"text-black\"><b>www.lobierun.edu.pl</b></a><br><b><br></b><br><b>w razie pytań pisz na adres:</b><br><b>dyrektorlob@gmail.com<a href=\"http://www.lobierun.edu.pl/\" target=\"_blank\" class=\"text-black\"><br></a></b><br><br>",
+          "text": "<br><a href=\"http://www.lobierun.edu.pl/\" target=\"_blank\" class=\"text-black\"><b>www.lobierun.edu.pl</b></a><br><b><br></b><b>w razie pytań pisz na adres:</b><br><b>dyrektorlob@gmail.com<a href=\"http://www.lobierun.edu.pl/\" target=\"_blank\" class=\"text-black\"><br></a></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Oferta dla &nbsp;absolwentów<br>gimnazjów<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Oferta dla absolwentów<br>szkół podstawowych<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Nasza szkoła<br>Nasze atuty<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Dokumenty<br>do pobrania<br></a>",
           "_tags": [
             "Motywy"
@@ -83,6 +83,41 @@
               "color": "#282828"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/kalku1-1153x412.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Jakie przedmioty będą brane <br>pod uwagę podczas rekrutacji?",
+          "caption": "<p><b>Niezależnie od wybieranej klasy,\n&nbsp;<span style=\"font-size: 1.07rem;\">pod uwagę będą brane oceny z:&nbsp;</span><span style=\"font-size: 1.07rem;\">języka polskiego i matematyki&nbsp;</span><span style=\"font-size: 1.07rem;\">oraz 2 najlepsze oceny z przedmiotów:&nbsp;</span><span style=\"font-size: 1.07rem;\">język obcy, historia, geografia, wiedza o społeczeństwie, biologia, chemia, informatyka i fizyka&nbsp;</span><span style=\"font-size: 1.07rem;\">uzyskane na świadectwie szkoły.&nbsp;</span><span style=\"font-size: 1.07rem;\">Szczegóły związane z przeliczaniem punktów znajdziesz w&nbsp;</span><span style=\"font-size: 1.07rem;\">Szkolnej Procedurze Rekrutacyjnej dostępnej w dziale \"Dokumenty do pobrania\"</span></b></p>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-20"
         }
       ]
     },
