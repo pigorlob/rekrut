@@ -107,7 +107,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/pytania1-2000x1000.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
