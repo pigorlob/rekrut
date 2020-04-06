@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "20190227",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -319,7 +319,7 @@
             }
           },
           "title": "Klasa lingwistyczna",
-          "text": "Przedmioty rozszerzone:&nbsp;j. polski, j. angielski, filozofia.",
+          "text": "<b>Przedmioty rozszerzone:&nbsp;j. polski, j. angielski, filozofia.</b><br>W tej klasie czekamy przede wszystkim na uczniów mających zainteresowania językowe. Po jej ukończeniu możesz studiować anglistykę, germanistykę, rusycystykę, filologię hiszpańską i inne kierunki lingwistyczne.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Motywy"
@@ -380,7 +380,7 @@
             }
           },
           "title": "Klasa humanistyczna",
-          "text": "Przedmioty rozszerzone:&nbsp;j. polski, historia, wiedza o społeczeństwie.",
+          "text": "<b>Przedmioty rozszerzone:&nbsp;j. polski, historia, wiedza o społeczeństwie</b>.<br>Doskonale przygotujesz się tu na wszelkiego rodzaju studia filologiczne i humanistyczne, w tym: filologię polską i filologie obce, prawo, administrację, politologię, socjologię, historię, prawoznawstwo, dziennikarstwo, stosunki międzynarodowe, studia mundurowe i inne atrakcyjne kierunki.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Motywy"
@@ -441,7 +441,7 @@
             }
           },
           "title": "Klasa matematyczno - fizyczno - informatyczna",
-          "text": "Przedmioty rozszerzone: matematyka, fizyka, informatyka.",
+          "text": "<b>Przedmioty rozszerzone: matematyka, fizyka, informatyka.</b><br>Doskonale przygotujesz się tu na kierunki politechniczne, inżynierię, środowiska, logistykę, transport, robotykę, architekturę, gospodarkę przestrzenną, zarządzanie, elektronikę, fizykę, budownictwo, matematykę, górnictwo i geologię, mechanikę i budowę maszyn i wiele innych.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Motywy"
@@ -502,7 +502,7 @@
             }
           },
           "title": "Klasa biologiczno - chemiczna",
-          "text": "Przedmioty rozszerzone: biologia, chemia<br>+ dodatkowo do wyboru: j. angielski.",
+          "text": "<b>Przedmioty rozszerzone: biologia, chemia<br>+ dodatkowo do wyboru: j. angielski.</b><br>Doskonale przygotujesz się tu na studia medyczne, farmację, fizjoterapię, dietetykę, pielęgniarstwo, położnictwo, ratownictwo medyczne, weterynarię, kosmetologię, biologię, ochronę środowiska, chemię, fizykę medyczną, analitykę medyczną, wychowanie fizyczne, bioinżynierię i inne kierunki.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Motywy"
@@ -563,7 +563,7 @@
             }
           },
           "title": "Klasa politologiczno - dziennikarska",
-          "text": "Przedmioty rozszerzone: j. polski, wiedza o społeczeństwie&nbsp;<br>+ dodatkowo do wyboru: j. angielski.",
+          "text": "<b>Przedmioty rozszerzone: j. polski, wiedza o społeczeństwie&nbsp;<br>+ dodatkowo do wyboru: j. angielski.</b><br>Klasa ta przygotowuje do szeroko pojętych studiów humanistycznych, począwszy od polonistyki przez historię, prawo, aż po psychologię, socjoligię czy też politologię.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Motywy"
@@ -624,7 +624,7 @@
             }
           },
           "title": "Klasa społeczna",
-          "text": "Przedmioty rozszerzone: j. polski, biologia&nbsp;<br>+ dodatkowo do wyboru: j. angielski.<br>",
+          "text": "<b>Przedmioty rozszerzone: j. polski, biologia&nbsp;<br>+ dodatkowo do wyboru: j. angielski.</b><br>Klasa ta przygotowuje do szeroko pojętych studiów humanistycznych, począwszy od polonistyki przez historię, prawo, aż po psychologię, socjoligię czy też politologię.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Motywy"
@@ -685,7 +685,7 @@
             }
           },
           "title": "Klasa społeczna",
-          "text": "Przedmioty rozszerzone: matematyka, biologia<br>+ dodatkowo do wyboru: j. angielski.",
+          "text": "<b>Przedmioty rozszerzone: matematyka, biologia<br>+ dodatkowo do wyboru: j. angielski.</b><br>Klasa ta przygotowuje do szeroko pojętych studiów humanistycznych, począwszy od polonistyki przez historię, prawo, aż po psychologię, socjoligię czy też politologię.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Motywy"
@@ -746,7 +746,7 @@
             }
           },
           "title": "Klasa matematyczno - fizyczna",
-          "text": "Przedmioty rozszerzone: matematyka, fizyka&nbsp;<br>+ dodatkowo do wyboru: j. angielski.<br>\n<br>",
+          "text": "<b>Przedmioty rozszerzone: matematyka, fizyka&nbsp;<br>+ dodatkowo do wyboru: j. angielski.</b><br>Doskonale przygotujesz się tu na kierunki ścisłe realizowane zarówno na studiach politechnicznych, jak i uniwersyteckich, w tym: matematykę, robotykę, informatykę, automatykę, elektronikę, budownictwo, ekonomię, inżynierię produkcji, transport, logistykę, geologię, architekturę i inne.<br>\n<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Motywy"
@@ -807,7 +807,7 @@
             }
           },
           "title": "Klasa matematyczno - informatyczna",
-          "text": "Przedmioty rozszerzone: matematyka, informatyka<br>+ dodatkowo do wyboru: j. angielski.",
+          "text": "<b>Przedmioty rozszerzone: matematyka, informatyka<br>+ dodatkowo do wyboru: j. angielski.</b><br>Doskonale przygotujesz się tu na kierunki politechniczne, inżynierię, środowiska, logistykę, transport, robotykę, architekturę, gospodarkę przestrzenną, zarządzanie, elektronikę, fizykę, budownictwo, matematykę, górnictwo i geologię, mechanikę i budowę maszyn i wiele innych.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Motywy"
@@ -868,7 +868,7 @@
             }
           },
           "title": "Klasa matematyczno - geograficzna",
-          "text": "Przedmioty rozszerzone: matematyka, geografia<br>+ dodatkowo do wyboru: j. angielski.<br>",
+          "text": "<b>Przedmioty rozszerzone: matematyka, geografia<br>+ dodatkowo do wyboru: j. angielski.</b><br>Doskonale przygotujesz się tu na kierunki ścisłe realizowane zarówno na studiach politechnicznych, jak i uniwersyteckich, w tym: matematykę, robotykę, informatykę, automatykę, elektronikę, budownictwo, ekonomię, inżynierię produkcji, transport, logistykę, geologię, architekturę i inne.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Motywy"
