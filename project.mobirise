@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "20190227",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1333,7 +1333,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/grupa-1800x1200.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mikroskop-1800x1200.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
