@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "20190227",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -63,7 +63,7 @@
             },
             "overlay": true,
             "overlayColor": "#cccccc",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.6"
           },
           "title": "LO im. Powstańców Śląskich w Bieruniu<br>Rekrutacja 2020/2021<br><br>",
           "text": "<br><a href=\"http://www.lobierun.edu.pl/\" target=\"_blank\" class=\"text-black\"><b>www.lobierun.edu.pl</b></a><br><b><br></b><b>w razie pytań pisz na adres:</b><br><b>dyrektorlob@gmail.com<a href=\"http://www.lobierun.edu.pl/\" target=\"_blank\" class=\"text-black\"><br></a></b><br>",
